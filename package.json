@@ -1,0 +1,24 @@
+{
+  "name": "zeppdapp",
+  "version": "1.0.0",
+  "description": "DApp using OpenZeppelin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mblogger/zeppdapp.git"
+  },
+  "keywords": [
+    "DApp",
+    "OpenZeppelin",
+    "Blockchain"
+  ],
+  "author": "MS <mblogger>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/mblogger/zeppdapp/issues"
+  },
+  "homepage": "https://github.com/mblogger/zeppdapp#readme"
+}
