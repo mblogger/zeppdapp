@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/mblogger/zeppdapp/issues"
   },
-  "homepage": "https://github.com/mblogger/zeppdapp#readme"
+  "homepage": "https://github.com/mblogger/zeppdapp#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^3.1.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "@openzeppelin/contracts": "^3.1.0"
+  }
 }
